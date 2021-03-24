@@ -40,7 +40,7 @@ const PaymentRow = (props) => {
       swapAsset: swapAsset,
       fiatCurrency: "USD",
     })
-      .on("*", handlePurchase)
+      .on("PURCHASE_SUCCESSFUL", handlePurchase)
       .show();
   };
   return (

@@ -16,7 +16,6 @@ function App() {
     <Router>
       <Toaster />
       <Switch>
-        <Route path="/" exact component={HomeScreen} />
         <Route path="/login" exact component={LoginScreen} />
         <Route path="/register" exact component={RegisterScreen} />
         <UserRoute path="/dashboard" exact>

@@ -15,10 +15,6 @@ app.use(express.static(path.join(process.cwd(), "../client/build")));
 app.use("/api/users", userRoutes);
 app.use("/api/payments", paymentRoutes);
 app.use(errorHandler);
-app.get("/", (req, res) => {
-  res.sendFile(path.join(process.cwd(), "../frontend/index.html"));
-});
-
 app.get("*", (req, res) => {
   res.sendFile(path.join(process.cwd(), "../client/build/index.html"));
 });

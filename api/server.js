@@ -5,6 +5,7 @@ import { errorHandler } from "./middleware/errorMiddleware.js";
 import userRoutes from "./routes/userRoutes.js";
 import paymentRoutes from "./routes/paymentRoutes.js";
 import path from "path";
+import priceRoutes from "./routes/priceRoutes.js";
 
 dotenv.config();
 const app = express();
@@ -14,6 +15,7 @@ app.use(express.static(path.join(process.cwd(), "../frontend")));
 app.use(express.static(path.join(process.cwd(), "../client/build")));
 app.use("/api/users", userRoutes);
 app.use("/api/payments", paymentRoutes);
+app.use("/api/prices", priceRoutes);
 app.use(errorHandler);
 app.get("*", (req, res) => {
   res.sendFile(path.join(process.cwd(), "../client/build/index.html"));

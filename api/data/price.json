@@ -1,0 +1,232 @@
+{
+  "status": {
+    "timestamp": "2021-04-15T09:49:29.853Z",
+    "error_code": 0,
+    "error_message": null,
+    "elapsed": 15,
+    "credit_count": 1,
+    "notice": null
+  },
+  "data": {
+    "1": {
+      "id": 1,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "slug": "bitcoin",
+      "total_supply": 18683118,
+      "last_updated": "2021-04-15T09:49:02.000Z",
+      "quote": {
+        "USD": {
+          "price": 62730.72890434309,
+          "volume_24h": 71020968757.12163,
+          "percent_change_1h": -0.33985362,
+          "percent_change_24h": -1.73951519,
+          "percent_change_7d": 10.07873759,
+          "percent_change_30d": 12.20869716,
+          "percent_change_60d": 28.96249162,
+          "percent_change_90d": 62.94381093,
+          "market_cap": 1172005610345.8525,
+          "last_updated": "2021-04-15T09:49:02.000Z"
+        }
+      }
+    },
+    "2": {
+      "id": 2,
+      "name": "Litecoin",
+      "symbol": "LTC",
+      "slug": "litecoin",
+      "total_supply": 66752414.51538747,
+      "last_updated": "2021-04-15T09:49:02.000Z",
+      "quote": {
+        "USD": {
+          "price": 272.2279605356014,
+          "volume_24h": 6982101264.951145,
+          "percent_change_1h": -0.78559708,
+          "percent_change_24h": 0.64862956,
+          "percent_change_7d": 21.78127954,
+          "percent_change_30d": 33.77339607,
+          "percent_change_60d": 20.81343248,
+          "percent_change_90d": 81.06751724,
+          "market_cap": 18171873664.351006,
+          "last_updated": "2021-04-15T09:49:02.000Z"
+        }
+      }
+    },
+    "52": {
+      "id": 52,
+      "name": "XRP",
+      "symbol": "XRP",
+      "slug": "xrp",
+      "total_supply": 99990831162,
+      "last_updated": "2021-04-15T09:49:03.000Z",
+      "quote": {
+        "USD": {
+          "price": 1.73447583447527,
+          "volume_24h": 22237834417.504192,
+          "percent_change_1h": -1.48834261,
+          "percent_change_24h": -1.78518883,
+          "percent_change_7d": 81.69412467,
+          "percent_change_30d": 259.0547066,
+          "percent_change_60d": 181.74543511,
+          "percent_change_90d": 495.27425124,
+          "market_cap": 78752190463.90306,
+          "last_updated": "2021-04-15T09:49:03.000Z"
+        }
+      }
+    },
+    "328": {
+      "id": 328,
+      "name": "Monero",
+      "symbol": "XMR",
+      "slug": "monero",
+      "total_supply": 17887221.52579094,
+      "last_updated": "2021-04-15T09:49:05.000Z",
+      "quote": {
+        "USD": {
+          "price": 327.75120294322966,
+          "volume_24h": 579447543.7620825,
+          "percent_change_1h": 1.05629284,
+          "percent_change_24h": 0.16312947,
+          "percent_change_7d": 24.79660349,
+          "percent_change_30d": 47.50763931,
+          "percent_change_60d": 43.13560374,
+          "percent_change_90d": 98.20576484,
+          "market_cap": 5862558372.390013,
+          "last_updated": "2021-04-15T09:49:05.000Z"
+        }
+      }
+    },
+    "512": {
+      "id": 512,
+      "name": "Stellar",
+      "symbol": "XLM",
+      "slug": "stellar",
+      "total_supply": 50001803375.78869,
+      "last_updated": "2021-04-15T09:49:06.000Z",
+      "quote": {
+        "USD": {
+          "price": 0.62838913612923,
+          "volume_24h": 2524459681.3867927,
+          "percent_change_1h": -0.40460227,
+          "percent_change_24h": -1.94793393,
+          "percent_change_7d": 27.27128528,
+          "percent_change_30d": 58.0126252,
+          "percent_change_60d": 14.0307451,
+          "percent_change_90d": 111.98387616,
+          "market_cap": 14370590314.700012,
+          "last_updated": "2021-04-15T09:49:06.000Z"
+        }
+      }
+    },
+    "825": {
+      "id": 825,
+      "name": "Tether",
+      "symbol": "USDT",
+      "slug": "tether",
+      "total_supply": 48846290993.53494,
+      "last_updated": "2021-04-15T09:48:13.000Z",
+      "quote": {
+        "USD": {
+          "price": 1.00180745883894,
+          "volume_24h": 150699099217.58832,
+          "percent_change_1h": 0.05316077,
+          "percent_change_24h": -0.03738291,
+          "percent_change_7d": 0.07761203,
+          "percent_change_30d": 0.19922923,
+          "percent_change_60d": 0.08747515,
+          "percent_change_90d": 0.32320965,
+          "market_cap": 46574441700.42282,
+          "last_updated": "2021-04-15T09:48:13.000Z"
+        }
+      }
+    },
+    "1027": {
+      "id": 1027,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "slug": "ethereum",
+      "total_supply": 115476363.624,
+      "last_updated": "2021-04-15T09:49:02.000Z",
+      "quote": {
+        "USD": {
+          "price": 2452.606349377103,
+          "volume_24h": 35972717429.49724,
+          "percent_change_1h": -0.80606893,
+          "percent_change_24h": 4.79677583,
+          "percent_change_7d": 21.53443869,
+          "percent_change_30d": 35.63857237,
+          "percent_change_60d": 33.90665336,
+          "percent_change_90d": 99.95885969,
+          "market_cap": 283218062627.20154,
+          "last_updated": "2021-04-15T09:49:02.000Z"
+        }
+      }
+    },
+    "1831": {
+      "id": 1831,
+      "name": "Bitcoin Cash",
+      "symbol": "BCH",
+      "slug": "bitcoin-cash",
+      "total_supply": 18708887.5,
+      "last_updated": "2021-04-15T09:48:08.000Z",
+      "quote": {
+        "USD": {
+          "price": 816.0469289058926,
+          "volume_24h": 5789021221.445771,
+          "percent_change_1h": -1.14904123,
+          "percent_change_24h": 1.77848336,
+          "percent_change_7d": 29.39838152,
+          "percent_change_30d": 53.28719913,
+          "percent_change_60d": 16.48749178,
+          "percent_change_90d": 60.63808737,
+          "market_cap": 15267330187.620844,
+          "last_updated": "2021-04-15T09:48:08.000Z"
+        }
+      }
+    },
+    "1975": {
+      "id": 1975,
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "slug": "chainlink",
+      "total_supply": 1000000000,
+      "last_updated": "2021-04-15T09:48:13.000Z",
+      "quote": {
+        "USD": {
+          "price": 41.7910726522872,
+          "volume_24h": 3984795050.1380353,
+          "percent_change_1h": -1.47594321,
+          "percent_change_24h": 14.9844025,
+          "percent_change_7d": 29.73722823,
+          "percent_change_30d": 49.47040805,
+          "percent_change_60d": 20.96191711,
+          "percent_change_90d": 125.29140972,
+          "market_cap": 17510858814.954506,
+          "last_updated": "2021-04-15T09:48:13.000Z"
+        }
+      }
+    },
+    "2010": {
+      "id": 2010,
+      "name": "Cardano",
+      "symbol": "ADA",
+      "slug": "cardano",
+      "total_supply": 45000000000,
+      "last_updated": "2021-04-15T09:48:15.000Z",
+      "quote": {
+        "USD": {
+          "price": 1.48216959092837,
+          "volume_24h": 7512223044.759436,
+          "percent_change_1h": 3.06355169,
+          "percent_change_24h": -0.12213285,
+          "percent_change_7d": 23.65220467,
+          "percent_change_30d": 41.38626387,
+          "percent_change_60d": 68.36441972,
+          "percent_change_90d": 363.61298646,
+          "market_cap": 47352812734.64615,
+          "last_updated": "2021-04-15T09:48:15.000Z"
+        }
+      }
+    }
+  }
+}

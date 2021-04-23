@@ -2325,7 +2325,7 @@ body {
     breadcrumb-area
  ====================================================*/
 .bread-bg {
-  background-image: url("../images/breadcrumb-bg.jpg");
+  background-image: url("../images/breadcrumb-bg.png");
   background-size: cover;
   background-position: center; }
 
